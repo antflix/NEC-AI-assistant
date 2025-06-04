@@ -69,7 +69,7 @@ jsonpatch==1.33
 jsonpointer==3.0.0
 langchain==0.2.15
 langchain-community==0.2.12
-langchain-core==0.2.37
+langchain-core==0.2.43
 langchain-ollama==0.1.1
 langchain-openai==0.1.23
 langchain-text-splitters==0.2.2
