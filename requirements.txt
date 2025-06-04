@@ -1,67 +1,60 @@
 ##
 ## Core ML / LLM Frameworks
 ##
-torch>=2.4.0,<3.0; platform_system=="Linux"  # Installs the matching CUDA‐enabled wheel if CUDA is present  [oai_citation:1‡stackoverflow.com](https://stackoverflow.com/questions/61536466/pips-requirements-txt-best-practice?utm_source=chatgpt.com)
-transformers>=4.44.2,<5.0                   # HuggingFace Transformers, CPU or GPU as appropriate 
-accelerate>=0.33.0,<1.0                     # Accelerator for multi‐GPU/TPU training 
-trl>=0.9.6,<1.0                              # HuggingFace TRL (Reinforcement Learning) 
+torch>=2.4.0,<3.0; platform_system=="Linux"  # Installs CUDA-enabled PyTorch on Linux  [oai_citation:3‡reddit.com](https://www.reddit.com/r/learnpython/comments/1djw6y9/is_there_a_smarter_way_to_build_requirementstxt/?utm_source=chatgpt.com)
+transformers>=4.44.2,<5.0                   # Hugging Face Transformers (CPU/GPU) 
+accelerate>=0.33.0,<1.0                     # Hugging Face Accelerate for multi-GPU 
+trl>=0.9.6,<1.0                             # Hugging Face TRL (Reinforcement Learning) 
 
 ##
 ## FAISS for Similarity Search (GPU)
 ##
 faiss-gpu-cu12>=1.11.0,<2.0; sys_platform=="linux" and python_version>="3.12"
-                                             # Only install if on Linux + Python 3.12+ 
+                                            # FAISS GPU wheels (Linux + Python 3.12+) 
 
 ##
 ## CUDA Toolkit Bindings (Optional / Loose Bounds)
 ##
-# These CUD A runtime libraries are typically managed by system package managers.
-# We list them here with relaxed bounds so that pip resolves them only if absent in the system.
+# These should be managed by the system or Conda; pip falls back to wheels if missing.
 nvidia-cuda-runtime-cu12>=12.1.105,<13.0; sys_platform=="linux"
 nvidia-cudnn-cu12>=9.1.0,<10.0; sys_platform=="linux"
 nvidia-cuda-cupti-cu12>=12.1.105,<13.0; sys_platform=="linux"
 
 ##
-## GPU‐Accelerated Data/Embedding Libraries
+## GPU-Accelerated Data / Embedding Libraries
 ##
-cupy>=12.0.0,<13.0; sys_platform=="linux"      # NumPy‐compatible GPU array library 
-cudf>=23.0.0;<24.0.0; sys_platform=="linux"    # GPU DataFrame library (RAPIDS) 
+cupy>=12.0.0,<13.0; sys_platform=="linux"      # NumPy-compatible GPU arrays (CuPy) 
+cudf>=23.0.0,<24.0.0; sys_platform=="linux"    # RAPIDS cuDF for GPU DataFrames 
 
 ##
-## Web Framework & Server (GPU‐Aware Deployment)
+## Web Framework & Server (GPU-Aware Deployment)
 ##
-fastapi>=0.98.0,<1.0                         # ASGI server framework (auto‐detects GPU vs. CPU) 
-uvicorn>=0.30.0,<1.0; sys_platform=="linux"  # Production ASGI server (Linux recommended) 
-starlette>=0.38.0,<0.39.0                  # Stable ASGI toolkit 
+fastapi>=0.98.0,<1.0                          # ASGI framework (auto-detects GPU vs. CPU) 
+uvicorn>=0.30.0,<1.0; sys_platform=="linux"   # ASGI server (Linux recommended) 
+starlette>=0.38.0,<0.39.0                     # ASGI toolkit for FastAPI 
 
 ##
 ## Concurrency / I/O
 ##
-aiohttp>=3.10.5,<4.0                       # Async HTTP client/server 
-anyio>=4.4.0,<5.0                          # Multi‐backend async support 
-aiofiles>=24.1.0,<25.0                     # Async filesystem operations 
-async-timeout>=4.0.3,<5.0                  # Timeout context for asyncio 
-sniffio>=1.3.1,<2.0                        # Async environment detection 
+aiohttp>=3.10.5,<4.0                          # Async HTTP client/server 
+anyio>=4.4.0,<5.0                             # Async backend abstraction 
+aiofiles>=24.1.0,<25.0                        # Async filesystem operations 
+async-timeout>=4.0.3,<5.0                     # Async timeout contexts 
+sniffio>=1.3.1,<2.0                           # Async environment detection 
 
 ##
 ## Data & Serialization
 ##
-numpy>=1.26.4,<2.0                         # Core numeric library, picks CPU/GPU backend automatically 
-pandas>=2.2.2,<3.0                        # DataFrame and series, CPU only but can interoperate with cudf 
-orjson>=3.10.7,<4.0                       # Fast JSON serialization 
-pydantic>=2.8.2,<3.0                      # Data validation (supports GPU/CPU data) 
-pyarrow>=17.0.0,<18.0                     # Columnar data format + GPU interoperability 
+numpy>=1.26.4,<2.0                            # Core numeric library; picks CPU/GPU as available 
+pandas>=2.2.2,<3.0                            # CPU DataFrames; interoperates with cuDF 
+orjson>=3.10.7,<4.0                           # Fast JSON serialization 
+pydantic>=2.8.2,<3.0                          # Data validation; supports GPU/CPU inputs 
+pyarrow>=17.0.0,<18.0                        # Columnar data format; GPU interop 
 
 ##
 ## Utilities & DevOps
 ##
-click>=8.1.7,<9.0                         # CLI utilities 
-typer>=0.12.4,<0.13                       # Modern CLI builder (works with async) 
-python-dotenv>=1.0.0,<2.0                 # Environment‐variable loader 
-git+https://github.com/jazzband/pip-tools    # For reproducible pinning (pip-compile)  [oai_citation:2‡stackoverflow.com](https://stackoverflow.com/questions/61536466/pips-requirements-txt-best-practice?utm_source=chatgpt.com)
-
-##
-## Optional – Uncomment if Needed
-##
-# Flask>=3.0,<4.0                        # If legacy Flask routes are required 
-# uvloop>=0.17.0,<1.0; sys_platform=="linux" # High‐performance asyncio loop (Linux only) 
+click>=8.1.7,<9.0                            # CLI utilities 
+typer>=0.12.4,<0.13                          # Modern CLI builder (async support) 
+python-dotenv>=1.0.0,<2.0                    # Load .env variables (e.g., CUDA FLAGS) 
+git+https://github.com/jazzband/pip-tools@master  # Ensure pip-compile is available  [oai_citation:4‡stackoverflow.com](https://stackoverflow.com/questions/61536466/pips-requirements-txt-best-practice?utm_source=chatgpt.com)
