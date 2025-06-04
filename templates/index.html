@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ants NEC Assistant</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+
+    <!-- Only include one Bootstrap version -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://github.com/kamilrogala/fancySpinners/blob/master/dist/spinners.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- MathJax Configuration -->
+    <script type="text/javascript">
+        MathJax = {
+            tex: {
+                displayMath: [['$$','$$'], ['\\[','\\]']],
+                inlineMath: [['$', '$'], ['\\(','\\)']],
+                processEscapes: true,
+                tags: 'ams',
+                maxMacros: 1000,
+                autoload: {
+                    color: [],
+                    colorv2: ['color'],
+                    colortext: [],
+                },
+                packages: {'[+]': ['ams']},
+                mathmlSpacing: false,
+                multlineWidth: '100%',  // Allow multiline equations to take full width
+                equationNumbers: {
+                    autoNumber: "AMS",
+                    useLabelIds: true
+                }
+            },
+            svg: {
+                fontCache: 'global',
+                linebreaks: { automatic: true, width: "container" }
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+            background: linear-gradient(to bottom right, #1a1a1a, #37a7fd 295%, rgba(152, 166, 180, 0.2) 6%);
+            position: relative;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            padding-top: 10%;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        form {
+            font-size: 1.0em;
+            width: 100%;
+            max-width: 800px;
+            padding: 10px;
+            backdrop-filter: blur(10px);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        label,
+        input {
+            width: 100%;
+            margin: 10px 0;
+            font-size: 1.5em;
+        }
+
+        input {
+            font-size: 1.5em;
+            padding: 15px;
+            border: none;
+            border-radius: 5px;
+            background-color: #444;
+            color: #f0f0f0;
+            box-sizing: border-box;
+        }
+
+        .highlight {
+            background-color: yellow;
+            font-weight: bold;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            margin-top: 20px;
+            box-sizing: border-box;
+        }
+
+        button {
+            padding: 15px;
+            border: none;
+            border-radius: 5px;
+            background-color: #1e90ff;
+            color: #f0f0f0;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            flex: 1;
+            font-size: large;
+            margin: 0 5px;
+        }
+
+        button:hover {
+            background-color: #1c86ee;
+        }
+
+        #clear-memory {
+            background-color: #ad3333;
+        }
+
+        #clear-memory:hover {
+            background-color: #666;
+        }
+
+        #answer,
+        #context {
+            width: 100%;
+            max-width: 100%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #262626;
+            border-radius: 10px;
+            word-wrap: break-word;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            overflow-x: auto;
+
+        }
+        #answer-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        #answer {
+            text-align: left;
+            font-size: larger;
+            
+        }
+
+        #context {
+            text-align: left;
+        }
+
+        a {
+            color: #1e90ff;
+            transition: color 0.3s ease;
+        }
+
+        a:visited {
+            color: #da70d6;
+        }
+
+        a:hover {
+            color: #ff6347;
+        }
+
+        .dropdown {
+            margin: 10px 0;
+        }
+
+        .dropdown-content {
+            display: none;
+            padding: 10px;
+            border: 1px solid #444;
+            background-color: #333;
+            margin-top: 5px;
+            border-radius: 5px;
+        }
+
+        .dropbtn {
+            background-color: #444;
+            color: white;
+            padding: 10px;
+            font-size: 1em;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .dropbtn:hover {
+            background-color: #555;
+        }
+        h3 {
+            margin-bottom: 5px; /* Reduce the bottom margin of the heading */
+            font-size: 1.3em; /* Optional: Adjust font size */
+        }
+
+        ul {
+            margin-top: 5px; /* Reduce the top margin of the list */
+            padding-left: 20px; /* Optional: Add padding to indent the list */
+            line-height: 1.4em; /* Adjust line height for better readability */
+        }
+
+        ul li {
+            margin-bottom: 5px; /* Optional: Add some space between list items */
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            form {
+                width: 100%;
+            }
+
+            .button-container {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            button {
+                width: 100%;
+                margin: 10px 0;
+            }
+
+            #answer,
+            #context {
+                padding: 10px;
+                font-size: medium;
+            }
+
+            input {
+                font-size: 1.2em;
+                padding: 10px;
+            }
+            .highlight {
+                background-color: yellow; /* Or any color you prefer */
+                font-weight: bold;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.5em;
+            }
+
+            form {
+                font-size: 0.9em;
+            }
+
+            input {
+                font-size: 1em;
+                padding: 8px;
+            }
+
+            button {
+                font-size: medium;
+                padding: 12px;
+            }
+
+            #answer,
+            #context {
+                font-size: small;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Ants NEC Assistant</h1>
+    <!-- Spinner HTML -->
+    <form id="query-form">
+        <label for="query">Enter your query:</label>
+        <input type="text" id="query" name="query" required>
+        <div class="button-container">
+            <button id="clear-memory" type="button">Clear Memory</button>
+            <button id="display-memory" type="button">Display Memory</button>
+            <button id="submit-button" type="submit">
+                Submit
+                <div id="button-spinner" class="spinner spinner-15" style="display: none; margin-left: 10px;"></div>
+            </button>
+        </div>
+    </form>
+
+    <div id="answer-container" style="display: none">
+        <h2>Answer</h2>
+    <div id="answer"></div>        
+    </div>
+    
+    <div id="context-container" style="display: none;">
+        <h2>Context</h2>
+        <div id="context">
+            <h3>Context</h3>
+            <p>{{ documents | safe }}</p>
+        </div>
+    </div>
+    
+    <script>
+        
+        $(document).ready(function() {
+        $('#query-form').submit(function(event) {
+            event.preventDefault();
+
+            // Replace "Submit" text with the spinner
+            $('#submit-button').prop('disabled', true); // Disable the button to prevent multiple clicks
+            $('#submit-button').html('Loading... <div id="button-spinner" class="spinner spinner-15" style="display: inline-block;"></div>');
+
+            var query = $('#query').val();
+            console.log("Submitted query:", query); // Debugging: Log the submitted query
+
+            $.ajax({
+                url: '/query',
+                method: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ query: query }),
+                success: function(response) {
+                    console.log("Response received:", response); // Debugging: Log the entire response
+
+                    // Restore the original button text and re-enable the button
+                    $('#submit-button').html('Submit');
+                    $('#submit-button').prop('disabled', false);
+
+                    // Get the response answer and replace the double-escaped backslashes (\\n) with single backslashes (\n)
+                    let markdownAnswer = response.answer || '';
+                    markdownAnswer = markdownAnswer.replace(/\\n/g, '\n'); // Convert double-escaped newlines into actual newlines
+
+                    // Use marked to parse the Markdown content after replacing the escaped characters
+                    markdownAnswer = marked.parse(markdownAnswer);
+
+                    // Insert the processed answer into the #answer div
+                    $('#answer').html(markdownAnswer);
+
+                    // Insert the processed answer into the #answer div
+                    $('#answer').html(markdownAnswer);
+
+                    // Insert the table HTML directly (without parsing through marked.js)
+                    if (response.table_html) {
+                        console.log("Inserting table HTML:", response.table_html); // Debugging: Log the table HTML
+                        $('#answer').append(response.table_html);
+                    } else {
+                        console.warn("No table HTML found in response."); // Debugging: Log a warning if no table HTML is found
+                    }
+
+                    // Ensure MathJax is loaded and processes the newly added content
+                    if (window.MathJax) {
+                        MathJax.startup.promise.then(() => {
+                            MathJax.typesetPromise().then(() => {
+                                console.log("MathJax processing completed."); // Debugging: Confirm MathJax processing
+                            }).catch((err) => console.error("MathJax processing failed:", err)); // Debugging: Log any MathJax errors
+                        });
+                    } else {
+                        console.warn("MathJax is not loaded."); // Debugging: Warn if MathJax is not loaded
+                    }
+
+                    const answerVisible = !!response.answer; 
+                    const contextVisible = Array.isArray(response.documents) && response.documents.length > 0;
+
+                    if (answerVisible) {
+                        $('#answer-container').show();
+                    } else {
+                        $('#answer-container').hide();
+                    }
+
+                    $('#context').empty();
+
+                    // Handle different response categories
+                    if (response.category === "nec") {
+                        // Handle NEC category documents
+                        response.documents.forEach((doc) => {
+                            const markdownContent = marked.parse(doc.content);
+                            const chapter = doc.chapter;
+                            const reference = doc.reference;
+                            const url = doc.url;
+
+                            // Create a dropdown for each document
+                            const dropdownHtml = `
+                                <div class="dropdown">
+                                    <button class="dropbtn">Reference: ${reference}</button>
+                                    <div class="dropdown-content" style="display:none;">
+                                        <p><strong>Chapter:</strong> ${chapter}</p>
+                                        <p><strong>Reference:</strong> ${reference}</p>
+                                        <p><strong>URL:</strong> <a href="${url}" target="_blank">${reference}</a></p>
+                                        <div><strong>Code:</strong>${markdownContent}</div>
+                                    </div>
+                                </div>
+                            `;
+                            $('#context').append(dropdownHtml);
+                        });
+                    } else if (response.category === "conduit_fill") {
+                        const documents = Array.isArray(response.documents) ? response.documents : [response.documents];
+                        documents.forEach((docString) => {
+                            // Parse the document string with marked.js to handle Markdown
+                            const markdownContextHtml = marked.parse(docString);
+
+                            // Create the HTML structure and insert the parsed Markdown content
+                            const contextHtml = `
+                                <div class="context-item">
+                                    <h3>Conduit Fill Calculation Details</h3>
+                                    <p>${markdownContextHtml}</p>
+                                </div>
+                            `;
+                            $('#context').append(contextHtml);
+                        });
+                    } else {
+                        console.error("Unknown category:", response.category); // Handle unknown categories
+                        $('#context-container').hide(); // Hide the context container if unknown category
+                    }
+
+                    if (contextVisible) {
+                        $('#context-container').show();
+                    } else {
+                        $('#context-container').hide();
+                    }
+
+                    $('.dropdown .dropbtn').click(function() {
+                        $(this).next('.dropdown-content').toggle();
+                    });
+                },
+                error: function() {
+                    // Restore the original button text and re-enable the button
+                    $('#submit-button').html('Submit');
+                    $('#submit-button').prop('disabled', false);
+
+                    // Optionally, show an error message
+                    $('#answer').html("An error occurred while processing your request.");
+                    $('#answer-container').show();
+                }
+            });
+        });
+
+        $('#clear-memory').click(function() {
+            $.ajax({
+                url: '/clear_memory',
+                method: 'POST',
+                success: function(response) {
+                    alert(response.message);
+                    $('#answer').html('');
+                    $('#context').empty();
+                    $('#query').val('');
+                    $('#answer-container').hide();
+                    $('#context-container').hide();
+                }
+            });
+        });
+    });
+    </script>
+</body>
+
+</html>
+
+
+
+

@@ -1,0 +1,871 @@
+[{
+        "Type": "EMT",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.122,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.213,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.346,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": 0.598,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.814,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.342,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": 2.343,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": 3.538,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": 4.618,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": "5.901",
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "5",
+        "Fill Capacity (in²)": 8.085,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "EMT",
+        "Trade Size": "6",
+        "Fill Capacity (in²)": 11.663,
+        "URL": "https://2023.antflix.net#table_4(EMT)"
+    },
+    {
+        "Type": "ENT",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.114,
+        "URL": "https://2023.antflix.net#table_4(ENT)"
+    },
+    {
+        "Type": "ENT",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.203,
+        "URL": "https://2023.antflix.net#table_4(ENT)"
+    },
+    {
+        "Type": "ENT",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.333,
+        "URL": "https://2023.antflix.net#table_4(ENT)"
+    },
+    {
+        "Type": "ENT",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": "0.581",
+        "URL": "https://2023.antflix.net#table_4(ENT)"
+    },
+    {
+        "Type": "ENT",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.794,
+        "URL": "https://2023.antflix.net#table_4(ENT)"
+    },
+    {
+        "Type": "ENT",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.316,
+        "URL": "https://2023.antflix.net#table_4(ENT)"
+    },
+    {
+        "Type": "ENT",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(ENT)"
+    },
+    {
+        "Type": "ENT",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(ENT)"
+    },
+    {
+        "Type": "ENT",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(ENT)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "3/8",
+        "Fill Capacity (in²)": 0.046,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.127,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.213,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.327,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": "0.511",
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.743,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.307,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": 1.963,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": 2.827,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": 3.848,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "FMC",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": 5.027,
+        "URL": "https://2023.antflix.net#table-4(FMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "3/8",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.137,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.235,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.384,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": 0.659,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.89,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.452,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": 2.054,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": 3.169,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": 4.234,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": 5.452,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "5",
+        "Fill Capacity (in²)": 8.528,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "IMC",
+        "Trade Size": "6",
+        "Fill Capacity (in²)": 12.304,
+        "URL": "https://2023.antflix.net#table-4(IMC)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "3/8",
+        "Fill Capacity (in²)": 0.077,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.125,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.214,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.342,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": "0.601",
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.807,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.337,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "6",
+        "Fill Capacity (in²)": "6",
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "3/8",
+        "Fill Capacity (in²)": 0.077,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.125,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.216,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.349,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": "0.611",
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.792,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.298,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "5",
+        "Fill Capacity (in²)": "5",
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "3/8",
+        "Fill Capacity (in²)": 0.074,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": "0.121",
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.209,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.333,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": 0.59,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.789,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.314,
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "LFNC",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": "4",
+        "URL": "https://2023.antflix.net#table_4(LFNC-A)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "3/8",
+        "Fill Capacity (in²)": 0.077,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.125,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.216,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.349,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": "0.611",
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.792,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.298,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": 1.953,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": 2.99,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": 3.893,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": 5.077,
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "5",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "Liquidtight Flexible Metal Conduit (LFMC)",
+        "Trade Size": "6",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(LFMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "3/8",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.125,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.22,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.355,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": 0.61,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.829,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.363,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": 1.946,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": 3,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": 4.004,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": 5.153,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "5",
+        "Fill Capacity (in²)": 8.085,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "RMC",
+        "Trade Size": "6",
+        "Fill Capacity (in²)": 11.663,
+        "URL": "https://2023.antflix.net#table_4(RMC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "3/8",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.087,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.164,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.275,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": 0.495,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.684,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.15,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": 1.647,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": 2.577,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": 3.475,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": 4.503,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "5",
+        "Fill Capacity (in²)": 7.142,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 80",
+        "Trade Size": "6",
+        "Fill Capacity (in²)": 10.239,
+        "URL": "https://2023.antflix.net#table-4(PVC)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "3/8",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.114,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.203,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.333,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": "0.581",
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.794,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.316,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": 1.878,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": 2.907,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": 3.895,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": 5.022,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "5",
+        "Fill Capacity (in²)": 7.904,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Rigid PVC Conduit (PVC), Schedule 40, and HDPE Conduit (HDPE)",
+        "Trade Size": "6",
+        "Fill Capacity (in²)": 11.427,
+        "URL": "https://2023.antflix.net#table_4(PVC-40)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": 0.154,
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": 0.26,
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": 0.434,
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": 0.707,
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": 0.929,
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.459,
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": "2.181",
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": 3.278,
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": 4.278,
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": 5.489,
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "5",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "Type A, Rigid PVC Conduit (PVC)",
+        "Trade Size": "6",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(PVC-A)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "1/2",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "3/4",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "1",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "1-1/4",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "1-1/2",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "2",
+        "Fill Capacity (in²)": 1.55,
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "2-1/2",
+        "Fill Capacity (in²)": "-",
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "3",
+        "Fill Capacity (in²)": 3.484,
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "3-1/2",
+        "Fill Capacity (in²)": 4.546,
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "4",
+        "Fill Capacity (in²)": 5.779,
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "5",
+        "Fill Capacity (in²)": 8.878,
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    },
+    {
+        "Type": "PVC",
+        "Trade Size": "6",
+        "Fill Capacity (in²)": 12.612,
+        "URL": "https://2023.antflix.net#table_4(PVC-EB)"
+    }
+]

@@ -1,0 +1,949 @@
+[{
+        "Type": "RFH-2,FFH-2, RFHH-2",
+        "Size": "#18",
+        "Approximate Area (in²)": 0.0145,
+        "URL": "https://2023.antflix.net#table_5(RFH-2)"
+    },
+    {
+        "Type": "RFH-2,FFH-2, RFHH-2",
+        "Size": "#16",
+        "Approximate Area (in²)": 0.0172,
+        "URL": "https://2023.antflix.net#table_5(RFH-2)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.0293,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#12",
+        "Approximate Area (in²)": 0.0353,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#10",
+        "Approximate Area (in²)": 0.0437,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#8",
+        "Approximate Area (in²)": 0.0835,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#6",
+        "Approximate Area (in²)": 0.1041,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#4",
+        "Approximate Area (in²)": 0.1333,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#3",
+        "Approximate Area (in²)": 0.1521,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#2",
+        "Approximate Area (in²)": 0.175,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#1",
+        "Approximate Area (in²)": 0.266,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#1/0",
+        "Approximate Area (in²)": 0.3039,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#2/0",
+        "Approximate Area (in²)": 0.3505,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#3/0",
+        "Approximate Area (in²)": 0.4072,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#4/0",
+        "Approximate Area (in²)": 0.4754,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#250",
+        "Approximate Area (in²)": 0.6291,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#300",
+        "Approximate Area (in²)": 0.7088,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#350",
+        "Approximate Area (in²)": 0.787,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#400",
+        "Approximate Area (in²)": 0.8626,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#500",
+        "Approximate Area (in²)": 1.0082,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#600",
+        "Approximate Area (in²)": 1.2135,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#700",
+        "Approximate Area (in²)": 1.3561,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": 750,
+        "Approximate Area (in²)": 1.4272,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#800",
+        "Approximate Area (in²)": 1.4957,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#900",
+        "Approximate Area (in²)": 1.6377,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#1000",
+        "Approximate Area (in²)": 1.7719,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": 1250,
+        "Approximate Area (in²)": 2.3479,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#1500",
+        "Approximate Area (in²)": 2.6938,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": 1750,
+        "Approximate Area (in²)": 3.0357,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#2000",
+        "Approximate Area (in²)": 3.3719,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "SF-2, SFF-2",
+        "Size": "#18",
+        "Approximate Area (in²)": 0.0115,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "SF-2, SFF-2",
+        "Size": "#16",
+        "Approximate Area (in²)": 0.0139,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "SF-2, SFF-2",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.0172,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "SF-1, SFF-1",
+        "Size": "#18",
+        "Approximate Area (in²)": 0.0065,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "RFH-1, TF, TFF, XF, XFF",
+        "Size": "#18",
+        "Approximate Area (in²)": 0.0088,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "TF, TFF, XF, XFF",
+        "Size": "#16",
+        "Approximate Area (in²)": 0.0109,
+        "URL": "https://2023.antflix.net#table_5(RHH)"
+    },
+    {
+        "Type": "TW, XF, XFF, THHW, THW,THW-2",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.0139,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THHW, THW, THW-2",
+        "Size": "#12",
+        "Approximate Area (in²)": 0.0181,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THHW, THW, THW-2",
+        "Size": "#10",
+        "Approximate Area (in²)": 0.0243,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THHW, THW, THW-2",
+        "Size": "#8",
+        "Approximate Area (in²)": 0.0437,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.0209,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2, XF, XFF",
+        "Size": "#12",
+        "Approximate Area (in²)": 0.026,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2, XF, XFF",
+        "Size": "#10",
+        "Approximate Area (in²)": 0.0333,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "RHH, RHW, RHW-2",
+        "Size": "#8",
+        "Approximate Area (in²)": 0.0556,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#6",
+        "Approximate Area (in²)": 0.0726,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#4",
+        "Approximate Area (in²)": 0.0973,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#3",
+        "Approximate Area (in²)": 0.1134,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#2",
+        "Approximate Area (in²)": 0.1333,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#1",
+        "Approximate Area (in²)": 0.1901,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#1/0",
+        "Approximate Area (in²)": 0.2223,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#2/0",
+        "Approximate Area (in²)": 0.2624,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#3/0",
+        "Approximate Area (in²)": 0.3117,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#4/0",
+        "Approximate Area (in²)": 0.3718,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#250",
+        "Approximate Area (in²)": 0.4596,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#300",
+        "Approximate Area (in²)": 0.5281,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#350",
+        "Approximate Area (in²)": 0.5958,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#400",
+        "Approximate Area (in²)": 0.6619,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#500",
+        "Approximate Area (in²)": 0.7901,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#600",
+        "Approximate Area (in²)": 0.9729,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#700",
+        "Approximate Area (in²)": 1.101,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": 750,
+        "Approximate Area (in²)": 1.1652,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#800",
+        "Approximate Area (in²)": 1.2272,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#900",
+        "Approximate Area (in²)": 1.3561,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#1000",
+        "Approximate Area (in²)": 1.4784,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": 1250,
+        "Approximate Area (in²)": 1.8602,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#1500",
+        "Approximate Area (in²)": 2.1695,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": 1750,
+        "Approximate Area (in²)": 2.4773,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TW, THW, THHW. THW-2,RHH, RHW, RHW-2",
+        "Size": "#2000",
+        "Approximate Area (in²)": 2.7818,
+        "URL": "https://2023.antflix.net#table_5(TW)"
+    },
+    {
+        "Type": "TFN, TFFN",
+        "Size": "#18",
+        "Approximate Area (in²)": 0.0055,
+        "URL": "https://2023.antflix.net#table_5(TFN)"
+    },
+    {
+        "Type": "TFN, TFFN",
+        "Size": "#16",
+        "Approximate Area (in²)": 0.0072,
+        "URL": "https://2023.antflix.net#table_5(TFN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.0097,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#12",
+        "Approximate Area (in²)": 0.0133,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#10",
+        "Approximate Area (in²)": 0.0211,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#8",
+        "Approximate Area (in²)": 0.0366,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#6",
+        "Approximate Area (in²)": 0.0507,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#4",
+        "Approximate Area (in²)": 0.0824,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#3",
+        "Approximate Area (in²)": 0.0973,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#2",
+        "Approximate Area (in²)": 0.1158,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#1",
+        "Approximate Area (in²)": 0.1562,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#1/0",
+        "Approximate Area (in²)": 0.1855,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#2/0",
+        "Approximate Area (in²)": 0.2223,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#3/0",
+        "Approximate Area (in²)": 0.2679,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#4/0",
+        "Approximate Area (in²)": 0.3237,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#250",
+        "Approximate Area (in²)": 0.397,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#300",
+        "Approximate Area (in²)": 0.4608,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#350",
+        "Approximate Area (in²)": 0.5242,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#400",
+        "Approximate Area (in²)": 0.5863,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#500",
+        "Approximate Area (in²)": 0.7073,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#600",
+        "Approximate Area (in²)": 0.8676,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#700",
+        "Approximate Area (in²)": 0.9887,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": 750,
+        "Approximate Area (in²)": 1.0496,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#800",
+        "Approximate Area (in²)": 1.1085,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#900",
+        "Approximate Area (in²)": 1.2311,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "THHN, THWN, THWN-2",
+        "Size": "#1000",
+        "Approximate Area (in²)": 1.3478,
+        "URL": "https://2023.antflix.net#table_5(THHN)"
+    },
+    {
+        "Type": "PF, PGFF, PGF, PFF, PTF, PAF,PTFF, PAFF",
+        "Size": "#18",
+        "Approximate Area (in²)": 0.0058,
+        "URL": "https://2023.antflix.net#table_5(PF)"
+    },
+    {
+        "Type": "PF, PGFF, PGF, PFF, PTF, PAF,PTFF, PAFF",
+        "Size": "#16",
+        "Approximate Area (in²)": 0.0075,
+        "URL": "https://2023.antflix.net#table_5(PF)"
+    },
+    {
+        "Type": "PF, PGFF, PGF PFF, PTF, PAF,PTFF, PAFF, TFE, FEP, PFA,FEPB, PFAH",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.01,
+        "URL": "https://2023.antflix.net#table_5(PF)"
+    },
+    {
+        "Type": "TFE, FEP, PFA, FEPB, PFAH",
+        "Size": "#12",
+        "Approximate Area (in²)": 0.0137,
+        "URL": "https://2023.antflix.net#table_5(TFE)"
+    },
+    {
+        "Type": "TFE, FEP, PFA, FEPB, PFAH",
+        "Size": "#10",
+        "Approximate Area (in²)": 0.0191,
+        "URL": "https://2023.antflix.net#table_5(TFE)"
+    },
+    {
+        "Type": "TFE, FEP, PFA, FEPB, PFAH",
+        "Size": "#8",
+        "Approximate Area (in²)": 0.0333,
+        "URL": "https://2023.antflix.net#table_5(TFE)"
+    },
+    {
+        "Type": "TFE, FEP, PFA, FEPB, PFAH",
+        "Size": "#6",
+        "Approximate Area (in²)": 0.0468,
+        "URL": "https://2023.antflix.net#table_5(TFE)"
+    },
+    {
+        "Type": "TFE, FEP, PFA, FEPB, PFAH",
+        "Size": "#4",
+        "Approximate Area (in²)": 0.067,
+        "URL": "https://2023.antflix.net#table_5(TFE)"
+    },
+    {
+        "Type": "TFE, FEP, PFA, FEPB, PFAH",
+        "Size": "#3",
+        "Approximate Area (in²)": 0.0804,
+        "URL": "https://2023.antflix.net#table_5(TFE)"
+    },
+    {
+        "Type": "TFE, FEP, PFA, FEPB, PFAH",
+        "Size": "#2",
+        "Approximate Area (in²)": 0.0973,
+        "URL": "https://2023.antflix.net#table_5(TFE)"
+    },
+    {
+        "Type": "TFE, PFAH, PFA",
+        "Size": "#1",
+        "Approximate Area (in²)": 0.1399,
+        "URL": "https://2023.antflix.net#table_5(TFE)"
+    },
+    {
+        "Type": "TFE, PFA, PFAH, Z",
+        "Size": "#1/0",
+        "Approximate Area (in²)": 0.1676,
+        "URL": "https://2023.antflix.net#table_5(PFA)"
+    },
+    {
+        "Type": "TFE, PFA, PFAH, Z",
+        "Size": "#2/0",
+        "Approximate Area (in²)": 0.2027,
+        "URL": "https://2023.antflix.net#table_5(PFA)"
+    },
+    {
+        "Type": "TFE, PFA, PFAH, Z",
+        "Size": "#3/0",
+        "Approximate Area (in²)": 0.2463,
+        "URL": "https://2023.antflix.net#table_5(PFA)"
+    },
+    {
+        "Type": "TFE, PFA, PFAH, Z",
+        "Size": "#4/0",
+        "Approximate Area (in²)": 0.3,
+        "URL": "https://2023.antflix.net#table_5(PFA)"
+    },
+    {
+        "Type": "ZF, ZFF, ZHF",
+        "Size": "#18",
+        "Approximate Area (in²)": 0.0045,
+        "URL": "https://2023.antflix.net#table_5(ZF)"
+    },
+    {
+        "Type": "ZF, ZFF, ZHF",
+        "Size": "#16",
+        "Approximate Area (in²)": 0.0061,
+        "URL": "https://2023.antflix.net#table_5(ZF)"
+    },
+    {
+        "Type": "Z, ZF, ZFF, ZHF",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.0083,
+        "URL": "https://2023.antflix.net#table_5(Z)"
+    },
+    {
+        "Type": "Z",
+        "Size": "#12",
+        "Approximate Area (in²)": 0.0117,
+        "URL": "https://2023.antflix.net#table_5(Z)"
+    },
+    {
+        "Type": "Z",
+        "Size": "#10",
+        "Approximate Area (in²)": 0.0191,
+        "URL": "https://2023.antflix.net#table_5(Z)"
+    },
+    {
+        "Type": "Z",
+        "Size": "#8",
+        "Approximate Area (in²)": 0.0302,
+        "URL": "https://2023.antflix.net#table_5(Z)"
+    },
+    {
+        "Type": "Z",
+        "Size": "#6",
+        "Approximate Area (in²)": 0.043,
+        "URL": "https://2023.antflix.net#table_5(Z)"
+    },
+    {
+        "Type": "Z",
+        "Size": "#4",
+        "Approximate Area (in²)": 0.0625,
+        "URL": "https://2023.antflix.net#table_5(Z)"
+    },
+    {
+        "Type": "Z",
+        "Size": "#3",
+        "Approximate Area (in²)": 0.0855,
+        "URL": "https://2023.antflix.net#table_5(Z)"
+    },
+    {
+        "Type": "Z",
+        "Size": "#2",
+        "Approximate Area (in²)": 0.1029,
+        "URL": "https://2023.antflix.net#table_5(Z)"
+    },
+    {
+        "Type": "Z",
+        "Size": "#1",
+        "Approximate Area (in²)": 0.1269,
+        "URL": "https://2023.antflix.net#table_5(Z)"
+    },
+    {
+        "Type": "XHHW, ZW, XHHW-2, XHH",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.0139,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, ZW, XHHW-2, XHH",
+        "Size": "#12",
+        "Approximate Area (in²)": 0.0181,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, ZW, XHHW-2, XHH",
+        "Size": "#10",
+        "Approximate Area (in²)": 0.0243,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, ZW, XHHW-2, XHH",
+        "Size": "#8",
+        "Approximate Area (in²)": 0.0437,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, ZW, XHHW-2, XHH",
+        "Size": "#6",
+        "Approximate Area (in²)": 0.059,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, ZW, XHHW-2, XHH",
+        "Size": "#4",
+        "Approximate Area (in²)": 0.0814,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, ZW, XHHW-2, XHH",
+        "Size": "#3",
+        "Approximate Area (in²)": 0.0962,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, ZW, XHHW-2, XHH",
+        "Size": "#2",
+        "Approximate Area (in²)": 0.1146,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#1",
+        "Approximate Area (in²)": 0.1534,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#1/0",
+        "Approximate Area (in²)": 0.1825,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#2/0",
+        "Approximate Area (in²)": 0.219,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#3/0",
+        "Approximate Area (in²)": 0.2642,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#4/0",
+        "Approximate Area (in²)": 0.3197,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#250",
+        "Approximate Area (in²)": 0.3904,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#300",
+        "Approximate Area (in²)": 0.4536,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#350",
+        "Approximate Area (in²)": 0.5166,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#400",
+        "Approximate Area (in²)": 0.5782,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#500",
+        "Approximate Area (in²)": 0.6984,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#600",
+        "Approximate Area (in²)": 0.8709,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#700",
+        "Approximate Area (in²)": 0.9923,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": 750,
+        "Approximate Area (in²)": 1.0532,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#800",
+        "Approximate Area (in²)": 1.1122,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#900",
+        "Approximate Area (in²)": 1.2351,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#1000",
+        "Approximate Area (in²)": 1.3519,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": 1250,
+        "Approximate Area (in²)": 1.718,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#1500",
+        "Approximate Area (in²)": 2.0156,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": 1750,
+        "Approximate Area (in²)": 2.3127,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "XHHW, XHHW-2, XHH",
+        "Size": "#2000",
+        "Approximate Area (in²)": 2.6073,
+        "URL": "https://2023.antflix.net#table_5(XHHW)"
+    },
+    {
+        "Type": "KF-2, KFF-2",
+        "Size": "#18",
+        "Approximate Area (in²)": 0.003,
+        "URL": "https://2023.antflix.net#table_5(KF-2)"
+    },
+    {
+        "Type": "KF-2, KFF-2",
+        "Size": "#16",
+        "Approximate Area (in²)": 0.0043,
+        "URL": "https://2023.antflix.net#table_5(KF-2)"
+    },
+    {
+        "Type": "KF-2, KFF-2",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.0064,
+        "URL": "https://2023.antflix.net#table_5(KF-2)"
+    },
+    {
+        "Type": "KF-2, KFF-2",
+        "Size": "#12",
+        "Approximate Area (in²)": 0.0092,
+        "URL": "https://2023.antflix.net#table_5(KF-2)"
+    },
+    {
+        "Type": "KF-2, KFF-2",
+        "Size": "#10",
+        "Approximate Area (in²)": 0.0139,
+        "URL": "https://2023.antflix.net#table_5(KF-2)"
+    },
+    {
+        "Type": "KF-1, KFF-1",
+        "Size": "#18",
+        "Approximate Area (in²)": 0.0026,
+        "URL": "https://2023.antflix.net#table_5(KF-1)"
+    },
+    {
+        "Type": "KF-1, KFF-1",
+        "Size": "#16",
+        "Approximate Area (in²)": 0.0037,
+        "URL": "https://2023.antflix.net#table_5(KF-1)"
+    },
+    {
+        "Type": "KF-1, KFF-1",
+        "Size": "#14",
+        "Approximate Area (in²)": 0.0055,
+        "URL": "https://2023.antflix.net#table_5(KF-1)"
+    },
+    {
+        "Type": "KF-1, KFF-1",
+        "Size": "#12",
+        "Approximate Area (in²)": 0.0083,
+        "URL": "https://2023.antflix.net#table_5(KF-1)"
+    },
+    {
+        "Type": "KF-1, KFF-1",
+        "Size": "#10",
+        "Approximate Area (in²)": 0.0127,
+        "URL": "https://2023.antflix.net#table_5(KF-1)"
+    }
+]
