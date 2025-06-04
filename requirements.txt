@@ -172,7 +172,7 @@ threadpoolctl==3.5.0
 tiktoken==0.7.0
 tokenizers==0.19.1
 tools==0.1.9
-torch==2.4.0
+torch==2.7.1
 tornado==6.4.1
 tqdm==4.66.5
 traitlets==5.14.3
