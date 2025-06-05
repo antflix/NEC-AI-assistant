@@ -57,4 +57,4 @@ pyarrow>=17.0.0,<18.0                        # Columnar data format; GPU interop
 click>=8.1.7,<9.0                            # CLI utilities 
 typer>=0.12.4,<0.13                          # Modern CLI builder (async support) 
 python-dotenv>=1.0.0,<2.0                    # Load .env variables (e.g., CUDA FLAGS) 
-git+https://github.com/jazzband/pip-tools@master  # Ensure pip-compile is available  [oai_citation:4‡stackoverflow.com](https://stackoverflow.com/questions/61536466/pips-requirements-txt-best-practice?utm_source=chatgpt.com)
+git+https://github.com/jazzband/pip-tools@main  # Ensure pip-compile is available  [oai_citation:4‡stackoverflow.com](https://stackoverflow.com/questions/61536466/pips-requirements-txt-best-practice?utm_source=chatgpt.com)
